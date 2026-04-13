@@ -1,0 +1,26 @@
+task2/:
+total 16
+drwxrwxr-x  4 anna anna 4096 Apr 12 12:52 .
+drwxr-x--- 27 anna anna 4096 Apr 12 12:52 ..
+drwxrwxr-x  3 anna anna 4096 Apr 12 12:49 backup
+-rw-rw-r--  1 anna anna    0 Apr 12 12:52 output.txt
+drwxrwxr-x  2 anna anna 4096 Apr 12 12:49 project
+
+task2/backup:
+total 12
+drwxrwxr-x 3 anna anna 4096 Apr 12 12:49 .
+drwxrwxr-x 4 anna anna 4096 Apr 12 12:52 ..
+-rw-rw-r-- 1 anna anna    0 Apr 12 12:18 CHANGELOG.md
+-rw-rw-r-- 1 anna anna    0 Apr 12 12:18 INSTALL.md
+drwxrwxr-x 2 anna anna 4096 Apr 12 12:45 logs
+-rw-rw-r-- 1 anna anna    0 Apr 12 12:18 README_backup.md
+
+task2/backup/logs:
+total 8
+drwxrwxr-x 2 anna anna 4096 Apr 12 12:45 .
+drwxrwxr-x 3 anna anna 4096 Apr 12 12:49 ..
+
+task2/project:
+total 8
+drwxrwxr-x 2 anna anna 4096 Apr 12 12:49 .
+drwxrwxr-x 4 anna anna 4096 Apr 12 12:52 ..
